@@ -1,4 +1,4 @@
-
+package JavaFolder.polymorphismdemo;
 interface  camera{
     void takeSnap();
      void recordVideo();
